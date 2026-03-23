@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-areas: "header header" "nav nav" "aside main" "footer footer";
+    grid-template-columns: 1fr 2fr ;
+    grid-template-rows: auto auto 2fr 1fr;
+    margin: 15px;
+    gap: 20px;
+    height: 100vh;
+}
+header{
+    grid-area: header;   
+}
+nav{
+    grid-area: nav;
+    display: block;
+}
