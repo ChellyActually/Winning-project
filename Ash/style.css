@@ -9,9 +9,10 @@ Dark : #151313
 }
 
 body {
-  background: #f8f9fa;
   min-height: 100vh;
   margin: 16px;
+  background-color: #151313;
+  color: #f8f9fa;
 }
 
 .top {
@@ -25,8 +26,8 @@ body {
   height: 30px;
   width: 70px;
   border-radius: 30px;
-  background-color: #151313;
-  color: #f8f9fa;
+  background-color: #f8f9fa;
+  color: #151313;
 }
 
 #rulesHeading {

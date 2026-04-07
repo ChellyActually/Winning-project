@@ -60,6 +60,8 @@ header {
   transition: 0.2s;
   font-weight: 700;
   font-size: 25px;
+  text-decoration: none;
+  color: #f8f9fa;
 }
 
 .grid-title{
