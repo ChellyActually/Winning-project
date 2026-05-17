@@ -1,0 +1,22 @@
+:root {
+  /* --- Colors --- */
+  --bg: #ffffff;
+  --text: #0f172a;
+  --primary: #3b82f6;
+  --primary-hover: #2563eb;
+  --border: #e2e8f0;
+
+  /* --- Typography --- */
+  --font-sans: system-ui, -apple-system, sans-serif;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 2rem;
+  --text-xl: 2.75rem;
+
+  /* --- Spacing & Layout --- */
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+
+  --transition: 0.2s ease;
+}
