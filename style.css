@@ -20,3 +20,12 @@
 
   --transition: 0.2s ease;
 }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
